@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Badade</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
+<img align="center" src="https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835119.jpg" /> 
+
+<h2 align="center">Automating Excellence: Crafting the Future through DevOps Magic ✨</h2>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQE59o7cPscmMQ/article-cover_image-shrink_720_1280/0/1675763935434?e=2147483647&v=beta&t=XBRXagFpziCEeafBS3C1pU7G_ZlHyx0jQ28L_W_KP_w" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhambadade07&label=Profile%20views&color=0e75b6&style=flat" alt="shubhambadade07" /> </p>
